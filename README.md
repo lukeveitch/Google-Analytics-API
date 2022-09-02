@@ -1,6 +1,6 @@
 # Google-Analytics-API
 
-Download the data from the Google Analytics API and downloading it into text files. 
+Download the data from the Google Analytics API and downloading it into .csv files. NOT in a sample.
 
 - Need the client secrets.json file to connect to the Google Analytics API. 
 - In the client secrets.json file add the email address that 
